@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Himaya Senarathne</h1>
+<h1 align="center">Hi!!👋, I'm Himaya Senarathne</h1>
 <h3 align="center">Software Engineering Undergraduate Student</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coding GIF" width="200"/>
+</p>
 
 ---
 
